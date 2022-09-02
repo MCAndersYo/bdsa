@@ -1,0 +1,15 @@
+/Users/mcandersyo/Desktop/bdsa/bin/Debug/net6.0/bdsa
+/Users/mcandersyo/Desktop/bdsa/bin/Debug/net6.0/bdsa.deps.json
+/Users/mcandersyo/Desktop/bdsa/bin/Debug/net6.0/bdsa.runtimeconfig.json
+/Users/mcandersyo/Desktop/bdsa/bin/Debug/net6.0/bdsa.dll
+/Users/mcandersyo/Desktop/bdsa/bin/Debug/net6.0/bdsa.pdb
+/Users/mcandersyo/Desktop/bdsa/obj/Debug/net6.0/bdsa.csproj.AssemblyReference.cache
+/Users/mcandersyo/Desktop/bdsa/obj/Debug/net6.0/bdsa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mcandersyo/Desktop/bdsa/obj/Debug/net6.0/bdsa.AssemblyInfoInputs.cache
+/Users/mcandersyo/Desktop/bdsa/obj/Debug/net6.0/bdsa.AssemblyInfo.cs
+/Users/mcandersyo/Desktop/bdsa/obj/Debug/net6.0/bdsa.csproj.CoreCompileInputs.cache
+/Users/mcandersyo/Desktop/bdsa/obj/Debug/net6.0/bdsa.dll
+/Users/mcandersyo/Desktop/bdsa/obj/Debug/net6.0/refint/bdsa.dll
+/Users/mcandersyo/Desktop/bdsa/obj/Debug/net6.0/bdsa.pdb
+/Users/mcandersyo/Desktop/bdsa/obj/Debug/net6.0/bdsa.genruntimeconfig.cache
+/Users/mcandersyo/Desktop/bdsa/obj/Debug/net6.0/ref/bdsa.dll
